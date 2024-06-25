@@ -1,0 +1,3 @@
+/home/yingzi/文档/learn/chat/ChatServer/build/CMakeFiles/rebuild_cache.dir
+/home/yingzi/文档/learn/chat/ChatServer/build/CMakeFiles/edit_cache.dir
+/home/yingzi/文档/learn/chat/ChatServer/build/CMakeFiles/server.dir
