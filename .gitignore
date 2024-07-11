@@ -1,0 +1,7 @@
+chatsample/ChatServer/build/
+
+
+# 忽略所有文件，但跟踪 .gitignore 和 foo.bar 文件
+*
+!.gitignore
+!foo.bar
